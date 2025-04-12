@@ -1,6 +1,6 @@
 <?php 
 require_once 'connection.php';
-
+//Hello from my windows
 if(isset($_GET['id'])){
     $id = $_GET['id'];
 
